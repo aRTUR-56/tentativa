@@ -1,5 +1,5 @@
 let listaDeNmrSorteados = [];
-let nmrLimit = 100;
+let nmrLimit = 60;
 let numeroSecret = gerarNumeroRandom();
 let tentativas = 1;
 const form = document.getElementById('sex');
